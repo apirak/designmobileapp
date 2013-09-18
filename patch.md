@@ -6,6 +6,14 @@ page 46
     - เช่นเดียวกันว่า Faborite คือสิ่งที่เราชอบ
     + เช่นเดียวกันว่า Fovorite คือสิ่งที่เราชอบ
 
+page 124
+  
+    - ส่วน dictionary
+    + โปรแกรม ibook
+    
+    - โปรแกรม ibook
+    + หน้า dictionary
+
 page 125
 
     - หน้าจอเครื่องคิดเลข iOS
